@@ -17,5 +17,6 @@ foreach ($tins as $tin) {
 	
 	//echo $tin."<hr/>";
 }
+echo "Đã đọc xong !";
 
 ?>
